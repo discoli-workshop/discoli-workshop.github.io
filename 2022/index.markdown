@@ -5,8 +5,6 @@
 layout: page
 ---
 
-# 1st **DISCOLI** Workshop on **DIS**tributed **COL**lective **I**ntelligence <!-- **** -->
-
 The **1st DISCOLI workshop on DIStributed COLlective Intelligence** is co-located with the [42nd IEEE International Conference on Distributed Computing Systems (ICDCS 2022)](https://icdcs2022.icdcs.org/) that will take place in Bologna, Italy, 10-13 July 2022.
 
 ## Call for Papers
