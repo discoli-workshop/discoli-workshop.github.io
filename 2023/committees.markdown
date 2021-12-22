@@ -2,6 +2,7 @@
 layout: page
 title: Committees
 permalink: /committees/
+published: false
 ---
 
 ## Workshop Chairs
