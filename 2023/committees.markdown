@@ -2,7 +2,6 @@
 layout: page
 title: Committees
 permalink: /committees/
-published: false
 ---
 
 ## Workshop Chairs
@@ -19,6 +18,8 @@ published: false
 - Mirko Viroli (Alma Mater Studiorum - Università di Bologna, Italy)
 - Franco Zambonelli (Università degli Studi di Modena e Reggio Emilia, Italy)
 - Mengchu Zhou (New Jersey Institute of Technology, USA)
+
+<!--
 
 ## Publicity Chairs
 
@@ -57,3 +58,5 @@ published: false
 - Christos Tsigkanos (TU Wien, AT)
 - Martin Wirsing (LMU Munich, DE)
 - Arkady Zasvlasky (CSIRO, AU)
+
+-->

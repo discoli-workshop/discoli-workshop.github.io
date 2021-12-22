@@ -34,14 +34,14 @@ The topics of interest include (but are not limited to) the following:
 - **Abstract deadline (soft)**: February 25, 2022
 - **Submission deadline**: March 4, 2022
 - Notification: April 7, 2022
-- Camera-ready submission: April 21, 2022
+- Camera-ready submission: April 21, 2022 (strict)
 - **Workshop date**: July 11, 2022 (TBC)
 
 ### Submission, review, participation, and publication details
 
 - **Originality**. Submitted papers must be original, unpublished, and not concurrently submitted for publication elsewhere.
 - **Format**. All paper submissions should follow the [formatting indications of the main conference](https://icdcs2022.icdcs.org/cfp/), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)) and must not exceed **6 pages including references** (up to 2 additional pages may be purchased for CR).
-- **E-submission site**: <https://easychair.org/conferences/?conf=discoli2021> (TBC)
+- **E-submission site**: <https://easychair.org/conferences/?conf=discoli2022>
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 - **Publication**. All *accepted and presented* papers will be included in *IEEE Xplore* and indexed by EI, Scopus.
