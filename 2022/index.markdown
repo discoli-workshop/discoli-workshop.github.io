@@ -41,7 +41,7 @@ The topics of interest include (but are not limited to) the following:
 ### Submission, review, participation, and publication details
 
 - **Originality**. Submitted papers must be original, unpublished, and not concurrently submitted for publication elsewhere.
-- **Format**. All paper submissions should follow IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)) and must not exceed **6 pages including references** (up to 2 additional pages may be purchased for CR).
+- **Format**. All paper submissions should follow the [formatting indications of the main conference](https://icdcs2022.icdcs.org/cfp/), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)) and must not exceed **6 pages including references** (up to 2 additional pages may be purchased for CR).
 - **E-submission site**: <https://easychair.org/conferences/?conf=discoli2021> (TBC)
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop.
