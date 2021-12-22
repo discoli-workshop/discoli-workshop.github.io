@@ -7,6 +7,10 @@ redirect_to:
   - https://discoli-workshop.github.io/2022
 ---
 
+<script type="text/javascript">
+window.location.replace("https://discoli-workshop.github.io/2022");
+</script>
+
 # **DISCOLI** Workshop on **DIS**tributed **COL**lective **I**ntelligence <!-- **** -->
 
 ## Editions
