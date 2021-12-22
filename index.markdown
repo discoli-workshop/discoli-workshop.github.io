@@ -4,7 +4,7 @@
 
 layout: page
 redirect_to:
-  - https://discoli-worskhop.github.io/2022
+  - https://discoli-workshop.github.io/2022
 ---
 
 # **DISCOLI** Workshop on **DIS**tributed **COL**lective **I**ntelligence <!-- **** -->
