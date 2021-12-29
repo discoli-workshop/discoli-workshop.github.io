@@ -19,12 +19,12 @@ permalink: /committees/
 - Franco Zambonelli (Università degli Studi di Modena e Reggio Emilia, Italy)
 - Mengchu Zhou (New Jersey Institute of Technology, USA)
 
-<!--
-
 ## Publicity Chairs
 
 - Flavia Delicato (Fluminense Federal University, Brazil)
 - Kevin Wang (University of Auckland, New Zealand)
+
+<!--
 
 ## Program Committee (TBD)
 
