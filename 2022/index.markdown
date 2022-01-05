@@ -39,6 +39,8 @@ The topics of interest include (but are not limited to) the following:
 - Camera-ready submission: April 21, 2022 (strict)
 - **Workshop date**: July 11, 2022 (TBC)
 
+All times are intended in Anywhere on Earth (AoE) timezone.
+
 ### Submission, review, participation, and publication details
 
 - **Originality**. Submitted papers must be original, unpublished, and not concurrently submitted for publication elsewhere.
