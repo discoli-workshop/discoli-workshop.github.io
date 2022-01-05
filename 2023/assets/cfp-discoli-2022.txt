@@ -34,7 +34,7 @@ The topics of interest include (but are not limited to) the following:
 - Languages for multi-tier programming or macro-programming
 - CI for distributed wearable computing systems
 - Techniques for crowd computing systems and applications
-- Applications of distributed CI for smart environments
+- Applications of distributed CI for smart environments (e.g., smart cities, smart buildings)
 - Tools for programming and simulation of multi-agent systems
 
 ## Submission, review, participation, and publication details
