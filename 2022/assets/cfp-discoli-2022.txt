@@ -52,7 +52,7 @@ The workshop welcomes two kinds of submissions:
 
 ### Format
 
-All paper submissions should follow the formatting indications of the main conference <https://icdcs2022.icdcs.org/cfp/>, i.e.,  IEEE 8.5" x 11" Two-Column Format (IEEE Manuscript Templates for Conference Proceedings <https://www.ieee.org/conferences/publishing/templates.html>) and must not exceed **6 pages including references** (up to 2 additional pages may be purchased for CR).
+All paper submissions should follow the formatting indications of the main conference <https://icdcs2022.icdcs.org/cfp/>, i.e.,  IEEE 8.5" x 11" Two-Column Format (IEEE Manuscript Templates for Conference Proceedings <https://www.ieee.org/conferences/publishing/templates.html>).
 
 ### E-submission site
 
