@@ -38,7 +38,7 @@ permalink: /committees/
 - Giovanna Di Marzo Serugendo (University of Geneva, CH)
 - Giuseppe Di Fatta (Free University of Bozen-Bolzano, IT)
 - Simon Dobson (University of St Andrews, UK)
-- Ivana Dusparic (Trinity College Dublin, UK)
+- Ivana Dusparic (Trinity College Dublin, IE)
 - Lukas Esterle (Aarhus University, DK)
 - George Exarchakos (Eindhoven TU/e, NL)
 - Maria Ganzha (SRI PAS, PL)
