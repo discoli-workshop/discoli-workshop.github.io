@@ -52,7 +52,7 @@ All times are intended in Anywhere on Earth (AoE) timezone.
 - **E-submission site**: <https://easychair.org/conferences/?conf=discoli2022>
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop.
-- **Publication**. All *accepted and presented* papers will be included in *IEEE Xplore* and indexed by EI, Scopus.
+- **Publication**. All *accepted and presented* papers will be submitted to *IEEE Xplore* and indexing databases like Elsevier, IET, and Scopus.
 - **Special issue**. A special issue on an ISI-impacted journal will be organised. A set of high-quality papers from DISCOLI will be invited to submit an extended contribution.
 
 ### Workshop Chairs
