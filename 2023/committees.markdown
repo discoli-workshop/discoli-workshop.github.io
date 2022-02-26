@@ -45,9 +45,6 @@ permalink: /committees/
 - Kurt Geihs (Universitaet Kassel, DE)
 - Raffaele Gravina (University of Calabria, IT)
 - Paola Inverardi (University of L'Aquila, IT)
-<!-- Antonio Jara (HOP Ubiquitous, CH)
-- Peter Lewis (Aston University, UK)
--->
 - Michele Loreti (University of Camerino, IT)
 - Stefano Mariani (University of Modena-Reggio Emilia, IT)
 - Hernan Melgratti (Universidad de Buenos Aires, AR)
