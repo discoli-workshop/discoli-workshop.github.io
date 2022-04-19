@@ -37,7 +37,7 @@ The topics of interest include (but are not limited to) the following:
 - **Abstract deadline (soft)**: February 25, 2022
 - **Submission deadline**: ~~March 4, 2022~~ **March 11, 2022** (EXTENDED DEADLINE)
 - Notification: April 7, 2022
-- Camera-ready submission: April 21, 2022 (strict)
+- Camera-ready submission: April 25, 2022 (strict)
 - **Workshop date**: July 11, 2022 (TBC)
 
 All times are intended in Anywhere on Earth (AoE) timezone.
