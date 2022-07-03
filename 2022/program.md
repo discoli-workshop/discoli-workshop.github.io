@@ -7,6 +7,9 @@ link_title: Program
 title: DISCOLI'22 Program
 ---
 
+The workshop is scheduled in the morning of Sunday **10th of July**.
+Please also see the [ICDCS program](https://icdcs2022.icdcs.org/program-at-a-glance/).
+
 ## Program (TBC)
 
 * 09:30 -- 09:45: **INTRODUCTION TO DISCOLI'22**
