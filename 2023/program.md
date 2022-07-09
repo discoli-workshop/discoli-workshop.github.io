@@ -23,4 +23,6 @@ Please also see the [ICDCS program](https://icdcs2022.icdcs.org/program-at-a-gla
 * 12:00 -- 12:20: *Sebastian Schmid and Andreas Harth.* ***Decentralized Self-Adaption With Epidemic Algorithms for Agent-Based Transportation***
 * 12:20: WORKSHOP CLOSURE
 
+All times in Central European Summer Time (CEST) timezone.
+
 <!-- * `15:30 -- 16:00`: Coffee break -->
