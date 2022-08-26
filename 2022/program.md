@@ -13,7 +13,7 @@ Please also see the [ICDCS program](https://icdcs2022.icdcs.org/program-at-a-gla
 ## Program (confirmed)
 
 * 09:00: **INTRODUCTION TO DISCOLI'22**
-* 09:15 -- 10:15: **KEYNOTE**: remotely kept by Prof. Bucchiarone
+* 09:15 -- 10:15: **KEYNOTE**: ***All Together Now: Collective Intelligence for Computer-Supported Collective Action*** (Prof. Antonio Bucchiarone, Fondazione Bruno Kessler, Italy)
 * 10:15: **BEGINNING OF WORKSHOP SESSION**
 * 10:15 -- 10:35: _Martin Wirsing, Xiyue Sun, Fabian R. Pieroth, Kyrill Schmid and Lenz Belzner._ ***On Learning Stable Cooperation in the Iterated Prisoner's Dilemma with Paid Incentives***
 * 10:30 -- 11:00: COFFE BREAK
