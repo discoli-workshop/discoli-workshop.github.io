@@ -36,8 +36,8 @@ The topics of interest include (but are not limited to) the following:
 ### Important Dates
 
 - **Abstract deadline (soft)**: March 12th, 2023
-- **Submission deadline**: **March 26th, 2023** 
-- Notification: April 28th, 2023
+- **Submission deadline**: **March 19th, 2023** 
+- Notification: April 21st, 2023
 - Camera-ready submission: May 12th, 2023
 - **Workshop date**: June 19-21, 2023 (TBD)
 
