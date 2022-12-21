@@ -7,7 +7,7 @@ link_title: Call for Papers
 title: 2nd DISCOLI Workshop on DIStributed COLlective Intelligence (DISCOLI 2023)
 ---
 
-The **2nd DISCOLI workshop on DIStributed COLlective Intelligence** is co-located with the [19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS 2023)](https://dcoss.org/) that will take place in Coral Bay, Pafos, Cyprus
+The **2nd DISCOLI workshop on DIStributed COLlective Intelligence** is co-located with the [19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2023)](https://dcoss.org/) that will take place in Coral Bay, Pafos, Cyprus
  in June 19-21, 2023.
 
 ## Call for Papers <!-- ([pdf](assets/cfp-discoli-2023.pdf)/[txt](assets/cfp-discoli-2023.txt)) -->
