@@ -35,7 +35,7 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
-- **Submission deadline**: ~~March 19th, 2023**~~ **April 15th, 2023** (FIRM)
+- **Submission deadline**: ~~March 19th, 2023~~ **April 15th, 2023**
 - Notification: May 1st, 2023
 - Camera-ready submission: May 15th, 2023
 - **Workshop date**: June 19-21, 2023 (TBD)
