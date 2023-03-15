@@ -50,7 +50,7 @@ permalink: /committees/
 * Qimeng Li (Università della Calabria, Italy)
 * Michele Loreti (University of Camerino, Italy)
 * Hernan Melgratti (Universidad de Buenos Aires, AG)
-* Pasquale Pace <p.pace@dimes.unical.it>(Università della Calabria, Italy)
+* Pasquale Pace (Università della Calabria, Italy)
 * Danilo Pianini (University of Bologna, Italy)
 * Simon Powers (Edinburgh Napier University, UK)
 * Andreagiovanni Reina (IRIDIA, Université Libre de Bruxelles, Belgium)
