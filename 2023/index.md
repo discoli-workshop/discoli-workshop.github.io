@@ -54,6 +54,7 @@ All times are intended in Anywhere on Earth (AoE) timezone.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop.
 - **Publication**. All *accepted and presented* papers will be submitted to *IEEE Xplore* and indexing databases like Elsevier, IET, and Scopus.
 - **Special issue**. A special issue on an ISI-impacted journal will be organised. A set of high-quality papers from DISCOLI will be invited to submit an extended contribution.
+    * Consider submitting your work to the [SI on "Understanding and Engineering Cyber-Physical Collectives" in Frontiers in Robotics and AI (Scimago Ranking: Q2)](https://www.frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives).
 
 ### Workshop Chairs
 
