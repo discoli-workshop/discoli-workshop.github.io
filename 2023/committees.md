@@ -27,7 +27,7 @@ permalink: /committees/
 
 -->
 
-## Program Committee (TBD)
+## Program Committee
 
 * Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
 * Noel Crespi (Institut Mines-Telecom, Institut Polytechnique de Paris, France)
