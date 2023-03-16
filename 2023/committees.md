@@ -56,5 +56,5 @@ permalink: /committees/
 * Andreagiovanni Reina (IRIDIA, Université Libre de Bruxelles, Belgium)
 * Luigi Scarcello (ICAR-CNR, Italy)
 * Vito Trianni (ISTC-CNR, Italy)
-* Andrea Tundis (Darmstadt University, Germany)
+* Andrea Tundis (German Aerospace Center - DLR, Germany)
 * Martin Wirsing (Ludwig-Maximilians-Universität München (LMU Munich), Germany)
