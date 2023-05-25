@@ -17,7 +17,7 @@ Please also see the [DCOSS-IoT Program](https://dcoss.org/program/).
 * 09:15 -- 09:35: _Fabrizio Marozzo, Alessio Orsino, Domencio Talia and Paolo Trunfio._ ***Scaling machine learning at the edge-cloud: a distributed computing perspective***
 * 09:35 -- 09:55: _Vlad-Alexandru Proteasa, Radu-Ioan Ciobanu and Ciprian Dobre._ ***Federated Learning for Human Mobility***
 * 09:55 -- 10:15: _Jonathan Diller, Neil Dantam, John Rogers and Qi Han._ ***Communication Jamming-Aware Robot Path Adaptation***
-* 10:15 -- 10:30: SESSION DISCUSSION
+* 10:15 -- 10:30: **SESSION DISCUSSION**
 * 10:30 -- 11:00: COFFEE BREAK
 * 11:00 -- 11:20: _Jens Dede and Anna Förster._ ***Animals in the Wild: Using Crowdsourcing to enhance the labelling of Camera Trap Images***
 * 11:20 -- 11:40: _Qimeng Li, Raffaele Gravina, Claudio Savaglio and Giancarlo Fortino._ ***A BSN-enabled Collaborative Edge-Cloud Architecture for Multi-user Activity Recognition***
