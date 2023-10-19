@@ -8,7 +8,7 @@ redirect_to:
 ---
 
 <script type="text/javascript">
-window.location.replace("https://discoli-workshop.github.io/2023");
+window.location.replace("https://discoli-workshop.github.io/2024");
 </script>
 
 # **DISCOLI** Workshop on **DIS**tributed **COL**lective **I**ntelligence <!-- **** -->
