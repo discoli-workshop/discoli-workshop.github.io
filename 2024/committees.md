@@ -27,4 +27,14 @@ permalink: /committees/
 
 -->
 
-## Program Committee (TBD)
+## Program Committee 
+- Vijay	Prakash (Thapar University, India)
+- Stefano	Mariani (Università di Modena e Reggio Emilia, Italy)
+- Theodoros	Aslanidis (University College Dublin, Ireland)
+- Dimitris	Chatzopoulos (The Hong Kong University of Science and Technology, China)
+- Andreas	Chouliaras
+- Fabrizio	Marozzo (DIMES, University of Calabria, Italy)
+- Walid	Brahim (Graduate School of Computer and Information Sciences, Hosei University, China)
+- Andrea	Tundis (German Aerospace Center (DLR), German)
+- Roberto	Casadei (University of Bologna, Italy)
+- Asimina	Mertzani (Imperial College London, UK)
