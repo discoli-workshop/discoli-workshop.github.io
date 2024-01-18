@@ -34,8 +34,8 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
-- Abstract Registration Deadline: January 8, 2024
-- Paper Submission Deadline: January 15, 2024
+- Abstract Registration Deadline: <s> January 8, 2024 </s> January 29, 2024
+- Paper Submission Deadline: <s> January 15, 2024 </s> January 29, 2024
 - Acceptance Notification: March 8, 2024
 - Camera Ready Deadline: March 29, 2024
 All times are intended in Anywhere on Earth (AoE) timezone.
