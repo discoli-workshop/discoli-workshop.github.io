@@ -48,7 +48,10 @@ All times are intended in Anywhere on Earth (AoE) timezone.
 - **Format**. All paper submissions should follow the [formatting indications of the main conference](https://dcoss.org/call-for-papers/), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
 - **E-submission site**: <https://easychair.org/conferences/?conf=discoli2024>
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
-- **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop.
+- **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop. The author should fill the form in the accepted paper letter to the authors (details [here](https://dcoss.org/camera-ready-instructions/)).
+Along with the permit form filled in and signed by the person who will present the paper at the conference, the presenter should also send a passport copy and photo (official documents standard) to the following email addresses by March 30th:
+Enrico Natalizio <enrico.natalizio@tii.ae>
+Andrew Chopra <andrew.chopra@tii.ae>
 - **Publication**. All *accepted and presented* papers will be submitted to *IEEE Xplore* and indexing databases like Elsevier, IET, and Scopus.
 - **Special issue**. A special issue on an ISI-impacted journal will be organised. A set of high-quality papers from DISCOLI will be invited to submit an extended contribution.
     * Consider submitting your work to the [SI on "Understanding and Engineering Cyber-Physical Collectives" in Frontiers in Robotics and AI (Scimago Ranking: Q2)](https://www.frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives).
