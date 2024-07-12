@@ -58,8 +58,7 @@ Andrew Chopra <andrew.chopra@tii.ae>
 
 ### Workshop Chairs
 
-- Gianluca Aguzzi (Alma Mater Studiorum - Università di Bologna, Italy)
-- Lukas Esterle (Aarhus University, Denmark)
+- Gianluca Aguzzi (Alma Mater Studiorum - Università di Bologna, Italy
 - Pietro Manzoni (Universitat Politècnica de València, Spain)
 - Claudio Savaglio (Università della Calabria, Italy)
 
