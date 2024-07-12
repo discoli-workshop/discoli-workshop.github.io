@@ -7,7 +7,6 @@ permalink: /committees/
 ## Workshop Chairs
 
 - Gianluca Aguzzi (Alma Mater Studiorum - Università di Bologna, Italy)
-- Lukas Esterle (Aarhus University, Denmark)
 - Pietro Manzoni (Universitat Politècnica de València, Spain)
 - Claudio Savaglio (Università della Calabria, Italy)
 
