@@ -6,9 +6,12 @@ permalink: /committees/
 
 ## Workshop Chairs
 
-- Gianluca Aguzzi (Alma Mater Studiorum - Università di Bologna, Italy)
-- Pietro Manzoni (Universitat Politècnica de València, Spain)
+- Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
 - Claudio Savaglio (Università della Calabria, Italy)
+
+<!-- 
+- Pietro Manzoni (Universitat Politècnica de València, Spain)
+-->
 
 ## Steering Committee
 
@@ -27,6 +30,10 @@ permalink: /committees/
 -->
 
 ## Program Committee 
+
+TBD
+
+<!--
 - Vijay	Prakash (Thapar University, India)
 - Stefano	Mariani (Università di Modena e Reggio Emilia, Italy)
 - Theodoros	Aslanidis (University College Dublin, Ireland)
@@ -37,3 +44,4 @@ permalink: /committees/
 - Andrea	Tundis (German Aerospace Center (DLR), German)
 - Roberto	Casadei (University of Bologna, Italy)
 - Asimina	Mertzani (Imperial College London, UK)
+-->
