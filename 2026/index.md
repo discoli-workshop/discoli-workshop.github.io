@@ -31,7 +31,7 @@ The topics of interest include (but are not limited to) the following:
 - Languages and tools for **multi-level complex systems** (e.g., agent societies, e-institutions, holonic MASs)
 - CI for distributed wearable computing systems (**collectives of wearables**)
 - Machine learning and collective systems (e.g., **MARL**, many-agent RL, collective RL, evolutionary approaches)
-- Techniques for **crowd computing systems** and applications (e.g., crowd digital twins)
+- Techniques for modelling **human crowds** and applications (e.g., crowd digital twins)
 - Applications of distributed CI for **smart environments** (e.g., smart cities, smart buildings, sensor systems, collective of vehicles, [https://frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives](cyber-physical collectives), the IoT, and the **social IoT**)
 - **Bio-inspired** approaches
 - Security for smart systems (e.g., **decentralised trust** systems)
