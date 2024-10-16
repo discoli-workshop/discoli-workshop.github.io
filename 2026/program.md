@@ -4,11 +4,14 @@
 
 layout: page
 link_title: Program
-title: DISCOLI'24 Program
+title: DISCOLI'25 Program
 ---
 
 ## Program
 
+TBD
+
+<!--
 The workshop is scheduled in the morning of **Wednesday 1st of May, 2024**.
 Please also see the [DCOSS-IoT Program](https://dcoss.org/dcoss24/program/).
 
@@ -26,3 +29,5 @@ Please also see the [DCOSS-IoT Program](https://dcoss.org/dcoss24/program/).
 * 12.15 -- 12:30: _Fabrizio Marozzo and Andrea Vinci._ ***Design of Platform-Independent IoT Applications in the Edge-Cloud Continuum***
 * 12.30 -- 12:45: _Claudio Savaglio, Luca Greco, Francesco Pupo and Giuseppe D’Aniello._ ***ENTRUST: usEr ceNtric plaTform foR continoUS healThcare***
 * 12.45 -- 13:00: **Final Discussion & Workshop Closure**
+
+-->
