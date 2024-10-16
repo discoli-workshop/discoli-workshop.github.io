@@ -39,11 +39,13 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
-- Abstract Registration Deadline: <s> January 8, 2024 </s> January 29, 2024
-- Paper Submission Deadline: <s> January 15, 2024 </s> January 29, 2024
-- Acceptance Notification: March 8, 2024
-- Camera Ready Deadline: March 29, 2024
-All times are intended in Anywhere on Earth (AoE) timezone.
+- Abstract Registration Deadline: March 29, 2025 <!-- <s> January 8, 2024 </s> January 29, 2024 -->
+- Paper Submission Deadline: April 5, 2025 <!-- <s> April 5, 2024 </s> January 29, 2024 -->
+- Acceptance Notification: April 25, 2025 <!-- March 8, 2024 -->
+- Camera Ready Deadline: May 2, 2025 <!-- March 29, 2024 --> 
+
+All times are intended in **Anywhere on Earth (AoE)** timezone.
+
 ### Submission, review, participation, and publication details
 
 - **Originality**. Submitted papers must be original, unpublished, and not concurrently submitted for publication elsewhere.
@@ -51,7 +53,7 @@ All times are intended in Anywhere on Earth (AoE) timezone.
     1. **Workshop papers**: provide original research contributions. These must not exceed **6 pages** (including references; up to two additional pages may be purchased for CR).
     2. **Work-in-Progress (WIP) papers**: describe original work-in-progress research which may not have been fully validated. These must not exceed **4 pages** (including references).
 - **Format**. All paper submissions should follow the [formatting indications of the main conference](https://dcoss.org/call-for-papers/), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
-- **E-submission site**: TODO <!-- <https://easychair.org/conferences/?conf=discoli2024> -->
+- **E-submission site**: <https://easychair.org/conferences/?conf=discoli2025>
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop. 
 <!-- The author should fill the form in the accepted paper letter to the authors (details [here](https://dcoss.org/camera-ready-instructions/)).
