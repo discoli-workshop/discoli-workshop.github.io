@@ -32,7 +32,7 @@ The topics of interest include (but are not limited to) the following:
 - CI for distributed wearable computing systems (**collectives of wearables**)
 - Machine learning and collective systems (e.g., **MARL**, many-agent RL, collective RL, evolutionary approaches)
 - Techniques for modelling **human crowds** and applications (e.g., crowd digital twins)
-- Applications of distributed CI for **smart environments** (e.g., smart cities, smart buildings, sensor systems, collective of vehicles, [https://frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives](cyber-physical collectives), the IoT, and the **social IoT**)
+- Applications of distributed CI for **smart environments** (e.g., smart cities, smart buildings, sensor systems, collective of vehicles, [cyber-physical collectives](https://frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives), the IoT, and the **social IoT**)
 - **Bio-inspired** approaches
 - Security for smart systems (e.g., **decentralised trust** systems)
 - **Cross-disciplinary** works on collective intelligence (cf. artificial life, synthetic biology)
