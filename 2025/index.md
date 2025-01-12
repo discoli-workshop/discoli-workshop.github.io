@@ -71,9 +71,8 @@ Andrew Chopra <andrew.chopra@tii.ae>
 
 ### Workshop Chairs
 
-- Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy
+- Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
+- Pietro Manzoni (Universitat Politècnica de València, Spain)
+- Alessandro Sapienza (Institute of Cognitive Sciences and Technologies, ISTC - CNR, Italy)
 - Claudio Savaglio (Università della Calabria, Italy)
 
-<!--
-- Pietro Manzoni (Universitat Politècnica de València, Spain)
- -->
