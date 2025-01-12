@@ -39,10 +39,10 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
-- **Abstract Registration Deadline:** March 29, 2025 <!-- <s> January 8, 2024 </s> January 29, 2024 -->
-- **Paper Submission Deadline:** April 5, 2025 <!-- <s> April 5, 2024 </s> January 29, 2024 -->
-- Acceptance Notification: April 25, 2025 <!-- March 8, 2024 -->
-- Camera Ready Deadline: May 2, 2025 <!-- March 29, 2024 --> 
+- **Abstract Registration Deadline:** March 1, 2025 <!-- <s> January 8, 2024 </s> January 29, 2024 -->
+- **Paper Submission Deadline:** April 15, 2025 <!-- <s> April 5, 2024 </s> January 29, 2024 -->
+- Acceptance Notification: April 30, 2025 <!-- March 8, 2024 -->
+- Camera Ready Deadline: May 9, 2025 <!-- March 29, 2024 --> 
 - **Workshop date:** June 9-11, 2025 (TBD)
 
 All times are intended in **Anywhere on Earth (AoE)** timezone.
