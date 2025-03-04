@@ -39,7 +39,7 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
-- **Abstract Registration Deadline:** March 1, 2025 <!-- <s> January 8, 2024 </s> January 29, 2024 -->
+- **Abstract:** no deadline (please provide as soon as possible) <!--March 1, 2025  <s> January 8, 2024 </s> January 29, 2024 -->
 - **Paper Submission Deadline:** April 15, 2025 <!-- <s> April 5, 2024 </s> January 29, 2024 -->
 - Acceptance Notification: April 30, 2025 <!-- March 8, 2024 -->
 - Camera Ready Deadline: May 9, 2025 <!-- March 29, 2024 --> 
