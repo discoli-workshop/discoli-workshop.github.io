@@ -30,17 +30,27 @@ permalink: /committees/
 
 ## Program Committee 
 
-TBD
-
-<!--
-- Vijay	Prakash (Thapar University, India)
-- Stefano	Mariani (Università di Modena e Reggio Emilia, Italy)
-- Theodoros	Aslanidis (University College Dublin, Ireland)
-- Dimitris	Chatzopoulos (The Hong Kong University of Science and Technology, China)
-- Andreas	Chouliaras
-- Fabrizio	Marozzo (DIMES, University of Calabria, Italy)
-- Walid	Brahim (Graduate School of Computer and Information Sciences, Hosei University, China)
-- Andrea	Tundis (German Aerospace Center (DLR), German)
-- Roberto	Casadei (University of Bologna, Italy)
-- Asimina	Mertzani (Imperial College London, UK)
--->
+- Yehia Abd Alrahman (University of Gothenburg, DE)
+- Giuseppe Agapito (Università Magna Graecia Catanzaro, IT)
+- Amod Kant Agrawal (Amazon Lab126, USA)
+- Gianluca Aguzzi (Alma Mater Studiorum - Università di Bologna, IT)
+- Gianluca Aloi (University of Calabria, IT)
+- Shadi Attarha (Universität Bremen, DE)
+- Vincenzo Barbuto (University of Calabria, IT)
+- Carlos Calafate (Universitat Politecnica de Valencia, ES)
+- Filippo Cantucci (ISTC-CNR, IT)
+- Francesco Cauteruccio (University of Salerno, IT)
+- Jens Dede (ComNets Uni Bremen, DE)
+- Fabrizio Fornari (University of Camerino, IT)
+- Raffaele Gravina (University of Calabria, IT)
+- Luca Greco (University of Salerno, IT)
+- Antonio Guerrieri (ICAR-CNR, IT)
+- Oliver Kosak (University of Augsburg, DE)
+- Stefano Mariani (Università di Modena e Reggio Emilia, IT)
+- Pasquale Mazzei (Neosperience, IT)
+- Silvia Mirri (Alma Mater Studiorum - Università di Bologna, IT)
+- Roberto Morabito (EURECOM, FR)
+- Paolo Pagliuca (ISTC-CNR, IT)
+- Gianluca Torta (Università di Torino, IT)
+- Andrea Tundis (German Aerospace Center - DLR, DE)
+- Alessandra Vitanza (Università degli Studi di Catania, IT)
