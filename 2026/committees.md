@@ -53,4 +53,4 @@ permalink: /committees/
 - Paolo Pagliuca (ISTC-CNR, IT)
 - Gianluca Torta (Università di Torino, IT)
 - Andrea Tundis (German Aerospace Center - DLR, DE)
-- Alessandra Vitanza (Università degli Studi di Catania, IT)
+- Alessandra Vitanza (ISTC-CNR, IT)
