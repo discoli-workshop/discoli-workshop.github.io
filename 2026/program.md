@@ -15,7 +15,7 @@ It is co-located with DCOSS-IoT, which will be held at the [Best Western Grand H
 
 | Time        | Title & Authors |
 |-------------|-----------------|
-| **14:00–14:15** | **Welcome and Introduction** |
+| **14:00–14:15** | **Welcome and Introduction** <br /> Roberto Casadei (University of Bologna, Italy), Pietro Manzoni (Universitat Politècnica de València, Spain), Alessandro Sapienza (ISTC - CNR, Italy), Claudio Savaglio (Università della Calabria, Italy) |
 | **14:15–14:30** | **Evaluating Distributed MQTT Brokers Performance for Scalable Augmented Reality IoT Data Visualization based on Collective Intelligence**  <br /> Farhad Rostamivand (Universitat Politècnica de València, Spain), Pietro Manzoni (Universitat Politècnica de València, Spain) |
 | **14:30–14:45** | **Integrating Collective Computing and the Social Internet of Things for Smart Cities: A Vision**  <br/> Roberto Casadei, Roberto Girau, Vittorio Ghini, Giovanni Pau (University of Bologna, Italy) |
 | **14:45–15:00** | **AI-based Concepts for Crisis Propagation Forecasting and Early Warning in Urban Areas**  <br/> Andrea Tundis, Maximilian Hummel, Jonas Gunkel (German Aerospace Center DLR, Germany), Claudio Savaglio (University of Calabria, Italy) |
@@ -28,4 +28,4 @@ It is co-located with DCOSS-IoT, which will be held at the [Best Western Grand H
 | **16:30–17:00** | **Coffee Break** |
 | **17:00–17:15** | **Service Continuity in Healthcare Internet of Things (HIoT): An Architectural Solution**  <br/>  Vincenzo Barbuto, Francesco Pupo, Claudio Savaglio, Giancarlo Fortino (University of Calabria, Italy), Giovanni Tavella, Pasquale Mazzei (Neosperience S.p.A.) |
 | **17:15–17:30** | **General-Purpose Sensing for Smart Environments: The Smart Museum Use Case**   <br/>  Rafiq Ul Islam, Claudio Savaglio (University of Calabria, Italy), Giovanni Tripicchio, Mariangela Viviani, Simone Colace, Sara Laurita (Wish S.r.l.), Antonio Guerrieri (ICAR-CNR, Italy) |
-| **17:30–17:45** | **Roundtable and Final Discussion** |
+| **17:30–17:45** | **Roundtable and Final Discussion** <br /> All the participants.|
