@@ -16,8 +16,7 @@ It is co-located with DCOSS-IoT, which will be held at the [Best Western Grand H
 | Time        | Title & Authors |
 |-------------|-----------------|
 | **14:00–14:15** | **Welcome and Introduction** |
-| **14:15–14:30** | **Evaluating Distributed MQTT Brokers Performance for Scalable Augmented Reality IoT Data Visualization based on Collective Intelligence**  
-Farhad Rostamivand (Universitat Politècnica de València, Spain), Pietro Manzoni (Universitat Politècnica de València, Spain) |
+| **14:15–14:30** | **Evaluating Distributed MQTT Brokers Performance for Scalable Augmented Reality IoT Data Visualization based on Collective Intelligence**  <br /> Farhad Rostamivand (Universitat Politècnica de València, Spain), Pietro Manzoni (Universitat Politècnica de València, Spain) |
 | **14:30–14:45** | **Integrating Collective Computing and the Social Internet of Things for Smart Cities: A Vision**  <br/> Roberto Casadei, Roberto Girau, Vittorio Ghini, Giovanni Pau (University of Bologna, Italy) |
 | **14:45–15:00** | **AI-based Concepts for Crisis Propagation Forecasting and Early Warning in Urban Areas**  <br/> Andrea Tundis, Maximilian Hummel, Jonas Gunkel (German Aerospace Center DLR, Germany), Claudio Savaglio (University of Calabria, Italy) |
 | **15:00–15:15** | **Aligning Individual Motivation with Collective Goals: A Formal Approach to Collective Gamification**  <br/> Riccardo Belliato (University of Udine and FBK-IRST, Italy), Antonio Bucchiarone (University of L'Aquila, Italy), Annapaola Marconi (University of Udine and FBK-IRST, Italy) |
