@@ -9,6 +9,8 @@ title: 4th DISCOLI Workshop on DIStributed COLlective Intelligence (DISCOLI 2025
 
 The **4th DISCOLI workshop on DIStributed COLlective Intelligence** is co-located with the [21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2025)](https://dcoss.org/) that will take place in Tuscany (Lucca), Italy, June 9-11, 2025.
 
+**2025-06-06 NEWS: the [workshop program](program) is out.**
+
 ## Call for Papers 
 <!-- -- [pdf](assets/cfp-discoli-2025.pdf) -->
 
