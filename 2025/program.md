@@ -9,25 +9,34 @@ title: DISCOLI'25 Program
 
 ## Program
 
-TBD
+The workshop is scheduled in the morning of **Monday June 9, 2025**.
+It is co-located with DCOSS-IoT, which will be held at the [Best Western Grand Hotel Guinigi](http://www.grandhotelguinigi.it/en/homepage-english/) in Lucca, Italy. Please also see the [DCOSS-IoT Program](https://dcoss.org/program/).
 
-<!--
-The workshop is scheduled in the morning of **Wednesday 1st of May, 2024**.
-Please also see the [DCOSS-IoT Program](https://dcoss.org/dcoss24/program/).
 
-## Program
-
-* 09:00-10:00: __Keynote Talk__ **“Cryptographic Frameworks for IoT devices in light of AI and Post Quantum technologies**“ by Dr. Najwa Aaraj, Technology Innovation Institute, UAE
-* 10:00 -- 10:30: Coffee Break
-* 10:30 -- 10:45: **Introduction to DISCOLI'24**
-* 10.45 -- 11:00: _Ioana-Valentina Marin, Eduard-Claudiu Ciurezu, Radu-Ioan Ciobanu and Ciprian Dobre._ ***Analysis and Prediction of Outdoor Human Mobility Using Collaborative Learning***
-* 11.00 -- 11:15:: _Carmela Comito, Agostino Forestiero and Bettina Fazzinga._ ***A Distributed AI-based Disease Classification Approach***
-* 11.15 -- 11:30: _Dakshanya Maddala and Habib M. Ammari._ ***Irregular Honeycomb Network: Revolutionizing k-Coverage in Spatial Wireless Sensor Networks***
-* 11.30 -- 11:45: _Gianluca Aguzzi and Claudio Savaglio Engineering._ ***Distributed Collective Intelligence in Cyber-Physical Swarms Engineering***
-* 11.45 -- 12:00: _Loris Belcastro, Fabrizio Marozzo, Aleandro Presta and Domenico Talia._ ***A Spark-based Task Allocation Solution for Machine Learning in the Edge-Cloud Continuum***
-* 12.00 -- 12:15: _Nawaz Ali, Gianluca Aloi, Pasquale Pace, Michele Gianfelice, Francesco Pupo, Raffaele Gravina and Giancarlo Fortino._ ***Simulators for system dataset generation in the Edge-to-Cloud continuum***
-* 12.15 -- 12:30: _Fabrizio Marozzo and Andrea Vinci._ ***Design of Platform-Independent IoT Applications in the Edge-Cloud Continuum***
-* 12.30 -- 12:45: _Claudio Savaglio, Luca Greco, Francesco Pupo and Giuseppe D’Aniello._ ***ENTRUST: usEr ceNtric plaTform foR continoUS healThcare***
-* 12.45 -- 13:00: **Final Discussion & Workshop Closure**
-
--->
+| Time        | Title & Authors |
+|-------------|-----------------|
+| **14:00–14:15** | **Welcome and Introduction** |
+| **14:15–14:30** | **Evaluating Distributed MQTT Brokers Performance for Scalable Augmented Reality IoT Data Visualization based on Collective Intelligence**  
+Farhad Rostamivand (Universitat Politècnica de València, Spain), Pietro Manzoni (Universitat Politècnica de València, Spain) |
+| **14:30–14:45** | **Integrating Collective Computing and the Social Internet of Things for Smart Cities: A Vision**  
+Roberto Casadei, Roberto Girau, Vittorio Ghini, Giovanni Pau (University of Bologna, Italy) |
+| **14:45–15:00** | **AI-based Concepts for Crisis Propagation Forecasting and Early Warning in Urban Areas**  
+Andrea Tundis, Maximilian Hummel, Jonas Gunkel (German Aerospace Center DLR, Germany), Claudio Savaglio (University of Calabria, Italy) |
+| **15:00–15:15** | **Aligning Individual Motivation with Collective Goals: A Formal Approach to Collective Gamification**  
+Riccardo Belliato (University of Udine and FBK-IRST, Italy), Antonio Bucchiarone (University of L'Aquila, Italy), Annapaola Marconi (University of Udine and FBK-IRST, Italy) |
+| **15:15–15:30** | **Leveraging UE-Level Collaborative Intelligence for Scalable Jamming Detection in 5G Networks**  
+Jiali Xu, Valéria Loscrì (Inria Lille-Nord Europe, France) |
+| **15:30–15:45** | **The Roles of Autonomy and Trust in Hybrid Societies: A Simulation-Based Study in the Healthcare Domain**  
+Francesco Stella, Alessandro Sapienza, Rino Falcone (ISTC-CNR, Italy) |
+| **15:45–16:00** | **Conceptualizing Evolving Interdependence in Groups: Insights from the Analysis of Two-Agent Systems**  
+Paolo Pagliuca, Alessandra Vitanza (ISTC-CNR, Italy), Martina Favia (NTT Data), Stefano Livi (Università La Sapienza, Italy) |
+| **16:00–16:15** | **Differentiation of Behaviors in Learning Pheromone-Based Communication**  
+Davide Borghi, Stefano Mariani, Franco Zambonelli (University of Modena and Reggio Emilia, Italy) |
+| **16:15–16:30** | **FedHeur: Multi-Heuristic Client Selection for Task Offloading in Federated Learning**  
+Nawaz Ali, Gianluca Aloi, Raffaele Gravina, Claudio Savaglio, Giancarlo Fortino (University of Calabria, Italy), Ali Hassan Sodhro (Kristianstad University, Sweden) |
+| **16:30–17:00** | **Coffee Break** |
+| **17:00–17:15** | **Service Continuity in Healthcare Internet of Things (HIoT): An Architectural Solution**  
+Vincenzo Barbuto, Francesco Pupo, Claudio Savaglio, Giancarlo Fortino (University of Calabria, Italy), Giovanni Tavella, Pasquale Mazzei (Neosperience S.p.A.) |
+| **17:15–17:30** | **General-Purpose Sensing for Smart Environments: The Smart Museum Use Case**  
+Rafiq Ul Islam, Claudio Savaglio (University of Calabria, Italy), Giovanni Tripicchio, Mariangela Viviani, Simone Colace, Sara Laurita (Wish S.r.l.), Antonio Guerrieri (ICAR-CNR, Italy) |
+| **17:30–17:45** | **Roundtable and Final Discussion** |
