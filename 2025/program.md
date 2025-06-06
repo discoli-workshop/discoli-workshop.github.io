@@ -23,7 +23,7 @@ It is co-located with DCOSS-IoT, which will be held at the [Best Western Grand H
 | **15:15–15:30** | **Leveraging UE-Level Collaborative Intelligence for Scalable Jamming Detection in 5G Networks**   <br/>  Jiali Xu, Valéria Loscrì (Inria Lille-Nord Europe, France) |
 | **15:30–15:45** | **The Roles of Autonomy and Trust in Hybrid Societies: A Simulation-Based Study in the Healthcare Domain**  <br/> Francesco Stella, Alessandro Sapienza, Rino Falcone (ISTC-CNR, Italy) |
 | **15:45–16:00** | **Conceptualizing Evolving Interdependence in Groups: Insights from the Analysis of Two-Agent Systems**  <br/> Paolo Pagliuca, Alessandra Vitanza (ISTC-CNR, Italy), Martina Favia (NTT Data), Stefano Livi (Università La Sapienza, Italy) |
-| **16:00–16:15** | **Differentiation of Behaviors in Learning Pheromone-Based Communication**   <br/>  Davide Borghi, Stefano Mariani, Franco Zambonelli (University of Modena and Reggio Emilia, Italy) |
+| **16:00–16:15** | **Differentiation of Behaviors in Learning Pheromone-Based Communication**   <br/>  Davide Borghi (IIT-CNR, Italy), Stefano Mariani, Franco Zambonelli (University of Modena and Reggio Emilia, Italy) |
 | **16:15–16:30** | **FedHeur: Multi-Heuristic Client Selection for Task Offloading in Federated Learning**  <br/>  Nawaz Ali, Gianluca Aloi, Raffaele Gravina, Claudio Savaglio, Giancarlo Fortino (University of Calabria, Italy), Ali Hassan Sodhro (Kristianstad University, Sweden) |
 | **16:30–17:00** | **Coffee Break** |
 | **17:00–17:15** | **Service Continuity in Healthcare Internet of Things (HIoT): An Architectural Solution**  <br/>  Vincenzo Barbuto, Francesco Pupo, Claudio Savaglio, Giancarlo Fortino (University of Calabria, Italy), Giovanni Tavella, Pasquale Mazzei (Neosperience S.p.A.) |
