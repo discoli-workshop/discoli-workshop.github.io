@@ -4,10 +4,14 @@
 
 layout: page
 link_title: Program
-title: DISCOLI'25 Program
+title: DISCOLI'26 Program
 ---
 
 ## Program
+
+TBD
+
+<!--
 
 The workshop is scheduled in the morning of **Monday June 9, 2025**.
 It is co-located with DCOSS-IoT, which will be held at the [Best Western Grand Hotel Guinigi](http://www.grandhotelguinigi.it/en/homepage-english/) in Lucca, Italy. Please also see the [DCOSS-IoT Program](https://dcoss.org/program/).
@@ -29,3 +33,5 @@ It is co-located with DCOSS-IoT, which will be held at the [Best Western Grand H
 | **17:00–17:15** | **Service Continuity in Healthcare Internet of Things (HIoT): An Architectural Solution**  <br/>  Vincenzo Barbuto, Francesco Pupo, Claudio Savaglio, Giancarlo Fortino (University of Calabria, Italy), Giovanni Tavella, Pasquale Mazzei (Neosperience S.p.A.) |
 | **17:15–17:30** | **General-Purpose Sensing for Smart Environments: The Smart Museum Use Case**   <br/>  Rafiq Ul Islam, Claudio Savaglio (University of Calabria, Italy), Giovanni Tripicchio, Mariangela Viviani, Simone Colace, Sara Laurita (Wish S.r.l.), Antonio Guerrieri (ICAR-CNR, Italy) |
 | **17:30–17:45** | **Roundtable and Final Discussion** <br /> All the participants.|
+
+-->

@@ -7,10 +7,7 @@ permalink: /committees/
 ## Workshop Chairs
 
 - Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
-- Pietro Manzoni (Universitat Politècnica de València, Spain)
-- Alessandro Sapienza (Institute of Cognitive Sciences and Technologies, ISTC - CNR, Italy)
 - Claudio Savaglio (Università della Calabria, Italy)
-
 
 ## Steering Committee
 
@@ -30,6 +27,9 @@ permalink: /committees/
 
 ## Program Committee 
 
+TBD
+
+<!--
 - Yehia Abd Alrahman (University of Gothenburg, DE)
 - Giuseppe Agapito (Università Magna Graecia Catanzaro, IT)
 - Amod Kant Agrawal (Amazon Lab126, USA)
@@ -54,3 +54,5 @@ permalink: /committees/
 - Gianluca Torta (Università di Torino, IT)
 - Andrea Tundis (German Aerospace Center - DLR, DE)
 - Alessandra Vitanza (ISTC-CNR, IT)
+
+-->

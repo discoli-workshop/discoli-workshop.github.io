@@ -4,14 +4,14 @@
 
 layout: page
 link_title: Call for Papers
-title: 4th DISCOLI Workshop on DIStributed COLlective Intelligence (DISCOLI 2025)
+title: 5th DISCOLI Workshop on DIStributed COLlective Intelligence (DISCOLI 2026)
 ---
 
-The **4th DISCOLI workshop on DIStributed COLlective Intelligence** is co-located with the [21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2025)](https://dcoss.org/) that will take place in Tuscany (Lucca), Italy, June 9-11, 2025.
+The **5th DISCOLI workshop on DIStributed COLlective Intelligence** is co-located with the [22nd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2026)](https://dcoss.org/) that will take place in Reykjavik, Iceland, June 22-24, 2026.
 
-DISCOLI'25 is scheduled on **June 9, 2025** (Monday afternoon).
+<!-- DISCOLI'25 is scheduled on **June 9, 2025** (Monday afternoon). -->
 
-**2025-06-06 NEWS: the [workshop program](program) is out.**
+<!-- **2025-06-06 NEWS: the [workshop program](program) is out.** -->
 
 ## Call for Papers 
 <!-- -- [pdf](assets/cfp-discoli-2025.pdf) -->
@@ -27,7 +27,7 @@ The topics of interest include (but are not limited to) the following:
 - Techniques for **task-specific collective intelligence** (e.g., collective decision-making, collective transport)
 - Extraction of **collective knowledge** in WWW and Internet of Things systems
 - **Human-machine networks**: collaborations of humans and artificial agents in socio-technical systems, and **crowdsourcing**
-- Formal models for computational collective intelligence and [**collective adaptive systems**](https://ecas-workshop.github.io/) (cf. projects FoCAS, ASCENS, QUANTICOL)
+- Formal models for computational collective intelligence and **collective adaptive systems** (cf. projects FoCAS, ASCENS, QUANTICOL)
 - Micro / meso / macro models for collective dynamics (e.g., mean-field)
 - Design and verification of **emergent properties** in distributed systems
 - **Coordination** models and languages
@@ -36,18 +36,24 @@ The topics of interest include (but are not limited to) the following:
 - CI for distributed wearable computing systems (**collectives of wearables**)
 - Machine learning and collective systems (e.g., **MARL**, many-agent RL, collective RL, evolutionary approaches)
 - Techniques for modelling **human crowds** and applications (e.g., crowd digital twins)
-- Applications of distributed CI for **smart environments** (e.g., smart cities, smart buildings, sensor systems, collective of vehicles, [cyber-physical collectives](https://frontiersin.org/research-topics/52323/understanding-and-engineering-cyber-physical-collectives), the IoT, and the **social IoT**)
+- Applications of distributed CI for **smart environments** (e.g., smart cities, smart buildings, sensor systems, collective of vehicles, cyber-physical collectives, the IoT, and the **social IoT**)
 - **Bio-inspired** approaches
 - Security for smart systems (e.g., **decentralised trust** systems)
 - **Cross-disciplinary** works on collective intelligence (cf. artificial life, synthetic biology)
 
 ### Important Dates
 
-- **Abstract:** no deadline (please provide as soon as possible) <!--March 1, 2025  <s> January 8, 2024 </s> January 29, 2024 -->
-- **Paper Submission Deadline:** April 15, 2025 <!-- <s> April 5, 2024 </s> January 29, 2024 -->
-- Acceptance Notification: April 30, 2025 <!-- March 8, 2024 -->
-- Camera Ready Deadline: May 9, 2025 <!-- March 29, 2024 --> 
+TBD
+
+<!--
+
+- **Abstract:** no deadline (please provide as soon as possible) 
+- **Paper Submission Deadline:** April 15, 2025 
+- Acceptance Notification: April 30, 2025 
+- Camera Ready Deadline: May 9, 2025
 - **Workshop date:** June 9-11, 2025 (TBD)
+
+-->
 
 All times are intended in **Anywhere on Earth (AoE)** timezone.
 
@@ -58,7 +64,7 @@ All times are intended in **Anywhere on Earth (AoE)** timezone.
     1. **Workshop papers**: provide original research contributions. These must not exceed **6 pages** (including references; up to two additional pages may be purchased for CR).
     2. **Work-in-Progress (WIP) papers**: describe original work-in-progress research which may not have been fully validated. These must not exceed **4 pages** (including references).
 - **Format**. All paper submissions should follow the [formatting indications of the main conference](https://dcoss.org/call-for-papers/), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
-- **E-submission site**: <https://easychair.org/conferences/?conf=discoli2025>
+- **E-submission site**: TBD <!-- <https://easychair.org/conferences/?conf=discoli2026> -->
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop. 
 <!-- The author should fill the form in the accepted paper letter to the authors (details [here](https://dcoss.org/camera-ready-instructions/)).
@@ -76,7 +82,5 @@ Andrew Chopra <andrew.chopra@tii.ae>
 ### Workshop Chairs
 
 - Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
-- Pietro Manzoni (Universitat Politècnica de València, Spain)
-- Alessandro Sapienza (Institute of Cognitive Sciences and Technologies, ISTC - CNR, Italy)
 - Claudio Savaglio (Università della Calabria, Italy)
 
