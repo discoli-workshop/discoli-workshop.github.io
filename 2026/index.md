@@ -43,17 +43,14 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
-TBD
-
-<!--
 
 - **Abstract:** no deadline (please provide as soon as possible) 
-- **Paper Submission Deadline:** April 15, 2025 
-- Acceptance Notification: April 30, 2025 
-- Camera Ready Deadline: May 9, 2025
-- **Workshop date:** June 9-11, 2025 (TBD)
+- **Paper Submission Deadline:** April 23, 2025 
+- Acceptance Notification: May 9, 2025 
+- Camera Ready Deadline: May 15, 2025
+- **Workshop date:** one half or full day between June 22-24, 2025 (TBD)
 
--->
+
 
 All times are intended in **Anywhere on Earth (AoE)** timezone.
 
