@@ -45,11 +45,10 @@ The topics of interest include (but are not limited to) the following:
 
 
 - **Abstract:** no deadline (please provide as soon as possible) 
-- **Paper Submission Deadline:** April 23, 2025 
-- Acceptance Notification: May 9, 2025 
-- Camera Ready Deadline: May 15, 2025
-- **Workshop date:** one half or full day between June 22-24, 2025 (TBD)
-
+- **Paper Submission Deadline:** April 23, 2026 
+- Acceptance Notification: May 9, 2026 
+- Camera Ready Deadline: May 15, 2026
+- **Workshop date:** one half or full day between June 22-24, 2026 (TBD)
 
 
 All times are intended in **Anywhere on Earth (AoE)** timezone.
