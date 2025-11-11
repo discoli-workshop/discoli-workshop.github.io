@@ -6,8 +6,11 @@ permalink: /committees/
 
 ## Workshop Chairs
 
-- Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
-- Claudio Savaglio (Università della Calabria, Italy)
+- Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy) 
+- Pietro Manzoni (Universitat Politècnica de València, Spain) 
+- Alessandro Sapienza (Institute of Cognitive Sciences and Technologies, ISTC - CNR, Italy) 
+- Claudio Savaglio (Università della Calabria, Italy) 
+
 
 ## Steering Committee
 
