@@ -60,7 +60,7 @@ All times are intended in **Anywhere on Earth (AoE)** timezone.
     1. **Workshop papers**: provide original research contributions. These must not exceed **6 pages** (including references; up to two additional pages may be purchased for CR).
     2. **Work-in-Progress (WIP) papers**: describe original work-in-progress research which may not have been fully validated. These must not exceed **4 pages** (including references).
 - **Format**. All paper submissions should follow the [formatting indications of the main conference](https://dcoss.org/call-for-papers/), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
-- **E-submission site**: TBD <!-- <https://easychair.org/conferences/?conf=discoli2026> -->
+- **E-submission site**: <https://easychair.org/conferences/?conf=discoli26>
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, soundness, presentation, and overall quality. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop. 
 <!-- The author should fill the form in the accepted paper letter to the authors (details [here](https://dcoss.org/camera-ready-instructions/)).
