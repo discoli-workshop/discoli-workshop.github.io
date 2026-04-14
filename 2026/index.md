@@ -45,7 +45,7 @@ The topics of interest include (but are not limited to) the following:
 
 
 - **Abstract:** no deadline (please provide as soon as possible) 
-- **Paper Submission Deadline:** April 23, 2026 
+- **Paper Submission Deadline:** ~~April 23, 2026~~ **April 30, 2026 (extended, firm)**
 - Acceptance Notification: May 9, 2026 
 - Camera Ready Deadline: May 15, 2026
 - **Workshop date:** one half or full day between June 22-24, 2026 (TBD)
