@@ -9,7 +9,65 @@ title: DISCOLI'26 Program
 
 ## Program
 
-TBD
+See the [detailed DCOSS-IoT program](https://dcoss.org/wp-content/uploads/2026/06/full-program-leaflet-final_V2.pdf).
+
+### 10:30–13:00 — Session 1: Collective Intelligent HW/SW Systems
+
+1. **spaPS: Spatially-Aware Publish-Subscribe Middleware for IoT Systems**  
+   Philipp Ungrund, Kurt Rothermel, and Sukanya Bhowmik
+
+2. **Cyber Resilience Supported by AI in CBDC Systems: Scenarios, Applications and Limitations**  
+   Andrea Tundis and Claudio Savaglio
+
+3. **Exploiting Platooning Dynamics to Improve Urban Intersection Throughput**  
+   Giacomo Cabri, Manuela Montangero, and Filippo Muzzini
+
+4. **Mining Distributed Collective Intelligence for Accessible Urban Mobility**  
+   Mirko Franco, Salvatore Gatto, Matteo Noro, Lorenzo Perinello, and Claudio Enrico Palazzi
+
+5. **Collective Signals and Truth Perception in AI-Generated Multimedia**  
+   Roberto Cavicchioli, Marco Furini, and Giacomo Tagliani
+
+6. **What Evolutionary Algorithm(s) Should We Use? Towards Preliminary Guidelines from an Exploratory Analysis of Foraging Problems**  
+   Paolo Pagliuca and Alessandra Vitanza
+
+7. **Informational Nudging and Collective Cooperation under Flood Risk: An Agent-Based Study**  
+   Alessandro Sapienza, Fabio Paglieri, Marco Marini, Sebastiano Munini, Anna Gerna, and Rino Falcone
+
+8. **Human-Cognitive Buildings Interaction through Smart Gloves**  
+   Hindred Arturo Peña Rodriguez, Franco Cicirelli, Emilio Greco, Antonio Guerrieri, Md Babul Islam, Irfanullah Khan, Carlo Mastroianni, Ermelinda Oro, and Andrea Vinci
+
+9. **Distributed Intelligence in Smart Agriculture Through Cognitive Tree Modeling**  
+   Franco Cicirelli, Francesco D'Amore, Antonio Francesco Gentile, Emilio Greco, Gianluca Godino, Antonio Guerrieri, Gabriella Lo Feudo, Luca Lombardo, Carlo Mastroianni, Massimo Micieli, Ermelinda Oro, Andrea Vinci, and Samanta Zelasco
+
+### 13:00–14:00 — Lunch
+
+### 14:00–15:30 — Session 2: Intelligent Networking and Applications
+
+1. **Distributed Collective Learning on Mobile Devices: A Real-Hardware FedAvg Evaluation**  
+   George-Alexandru Tudor, Radu-Ioan Ciobanu, and Ciprian Dobre
+
+2. **Collective Semantic Intelligence for Vehicular Crowdsensing over Named Data Networking**  
+   Marica Amadeo, Giuseppe Ruggeri, Antonella Molinaro, and Salvatore Serrano
+
+3. **A Lightweight Architecture for Collective Coordination Across Isolated Edge Systems over LPWAN**  
+   Javier Prades, Erika Rosas, Juan-Luis Posadas-Yagüe, José M. Cecilia, and Pietro Manzoni
+
+4. **Named Data Networking (NDN) for Collective Network Intelligence: A Smart Museum Case Study**  
+   Rafiq Ul Islam, Vincenzo Barbuto, Claudio Savaglio, and Raffaele Gravina
+
+5. **An Architectural Approach for Multimodal Robot Control**  
+   Franco Cicirelli, Antonio Francesco Gentile, Antonio Guerrieri, Md Babul Islam, Qimeng Li, Ermelinda Oro, Luigi Rizzo, Andrea Vinci, and Paolo Zicari
+
+6. **Towards Self-Adaptive Embryonic Systems**  
+   Thomas Welsh
+
+7. **GPS-Free Self-Healing Drone Networks via Virtual Spring-Dampers**  
+   Federico Corò, Riccardo Fabbian, and Claudio E. Palazzi
+
+8. **Leveraging Collective Intelligence Signals for Early Misinformation Detection on the Web**  
+   Carmela Comito and Liliana Martirano
+
 
 <!--
 
