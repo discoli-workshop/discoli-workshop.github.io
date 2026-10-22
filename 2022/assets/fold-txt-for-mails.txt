@@ -1,0 +1,1 @@
+fold -w 70 -s text.txt
