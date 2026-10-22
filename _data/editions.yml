@@ -4,6 +4,13 @@
 # served at https://discoli-workshop.github.io/<id>/.
 # The first entry is the current edition: the site root redirects to it.
 
+- id: "2027"
+  title: "DISCOLI'27"
+  name: 6th DISCOLI workshop on DIStributed COLlective Intelligence
+  conference: 23rd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2027)
+  conference_url: https://dcoss.org/
+  venue: Montreal, Canada, June 21-23, 2027
+
 - id: "2026"
   title: "DISCOLI'26"
   name: 5th DISCOLI workshop on DIStributed COLlective Intelligence
