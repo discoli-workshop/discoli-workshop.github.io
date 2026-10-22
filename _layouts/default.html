@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
+  {%- comment -%} Pages under <id>/ belong to the edition with that id in _data/editions.yml {%- endcomment -%}
+  {%- assign edition_id = page.path | split: "/" | first -%}
+  {%- assign edition = site.data.editions | where: "id", edition_id | first -%}
+
   {%- include head.html -%}
 
   <body>

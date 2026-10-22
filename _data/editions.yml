@@ -1,0 +1,40 @@
+# DISCOLI editions, newest first.
+#
+# Each edition lives in the folder named after its `id` (e.g. 2027/) and is
+# served at https://discoli-workshop.github.io/<id>/.
+# The first entry is the current edition: the site root redirects to it.
+
+- id: "2026"
+  title: "DISCOLI'26"
+  name: 5th DISCOLI workshop on DIStributed COLlective Intelligence
+  conference: 22nd International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS 2026)
+  conference_url: https://dcoss.org/dcoss2026/
+  venue: Reykjavik, Iceland, June 22-24, 2026
+
+- id: "2025"
+  title: "DISCOLI'25"
+  name: 4th DISCOLI workshop on DIStributed COLlective Intelligence
+  conference: 21st International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS 2025)
+  conference_url: https://dcoss.org/dcoss2025/
+  venue: Tuscany (Lucca), Italy, June 9-11, 2025
+
+- id: "2024"
+  title: "DISCOLI'24"
+  name: 3rd DISCOLI workshop on DIStributed COLlective Intelligence
+  conference: 20th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS 2024)
+  conference_url: https://dcoss.org/dcoss24/program/
+  venue: Abu Dhabi, United Arab Emirates, April 29 – May 1, 2024
+
+- id: "2023"
+  title: "DISCOLI'23"
+  name: 2nd DISCOLI workshop on DIStributed COLlective Intelligence
+  conference: 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS 2023)
+  conference_url: https://dcoss.org/dcoss23/program/
+  venue: Coral Bay, Pafos, Cyprus, Jun 19 - 21, 2023
+
+- id: "2022"
+  title: "DISCOLI'22"
+  name: 1st DISCOLI workshop on DIStributed COLlective Intelligence
+  conference: 42nd IEEE International Conference on Distributed Computing Systems (ICDCS 2022)
+  conference_url: https://icdcs2022.icdcs.org/
+  venue: Bologna, Italy, 10-13 July 2022

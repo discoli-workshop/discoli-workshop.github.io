@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Committees
-permalink: /committees/
+permalink: /2024/committees/
 ---
 
 ## Workshop Chairs

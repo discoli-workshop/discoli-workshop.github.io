@@ -1,0 +1,22 @@
+{%- comment -%}
+  Redirects to `page.redirect_to` or, if not set, to the current edition (the first one in _data/editions.yml).
+{%- endcomment -%}
+{%- assign current_edition = site.data.editions | first -%}
+{%- assign current_edition_url = current_edition.id | prepend: "/" | append: "/" -%}
+{%- assign target = page.redirect_to | default: current_edition_url | absolute_url -%}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <title>Redirecting&hellip;</title>
+    <link rel="canonical" href="{{ target }}">
+    <meta http-equiv="refresh" content="0; url={{ target }}">
+    <meta name="robots" content="noindex">
+    <script type="text/javascript">
+    window.location.replace("{{ target }}");
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to <a href="{{ target }}">{{ target }}</a>&hellip;</p>
+  </body>
+</html>
